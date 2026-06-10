@@ -47,4 +47,4 @@ Cuando se detecta un fallo, el sistema entra en modo seguro, activa la alarma vi
 
 ## Enlace a la simulación Wokwi
 
-Añadir aquí el enlace de Wokwi.
+https://wokwi.com/projects/465561795760159745
